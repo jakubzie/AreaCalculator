@@ -1,4 +1,0 @@
-﻿1. prośba o wybór obiektu (kwadrat,prostokąt,koło,trójkąt)
-2. prośba o wprowadzenie odpowiednich danych
-3. obliczenie pola według wzoru
-4. podanie wyniku 
