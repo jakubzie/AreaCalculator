@@ -7,7 +7,7 @@ This is a simple console application that allows the user to calculate the area 
 * Circle
 * Triangle
 
-## Getting Started
+## Technologies
 
 This application was created using C# programming language.
 
